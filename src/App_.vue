@@ -60,6 +60,7 @@ export default {
   },
   data() {
     return {
+      // 今の画面に出ている問題の番号
       quizNow: 0,
       ansNow: 0,
       answerListNow: [],
